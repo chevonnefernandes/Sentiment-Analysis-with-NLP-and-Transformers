@@ -2,7 +2,7 @@
 
 ## Overview
 
-Sentiment analysis is a crucial task in Natural Language Processing (NLP), aiming to determine the sentiment or opinion expressed in a piece of text. In this project, we delve into sentiment analysis techniques applied to the Amazon Fine Food Reviews dataset, employing both traditional and state-of-the-art NLP models.
+Sentiment analysis is a crucial task in Natural Language Processing (NLP), aiming to determine the sentiment or opinion expressed in a piece of text. In this project, we delve into sentiment analysis techniques applied to an Amazon Fine Food Reviews dataset, employing both traditional and state-of-the-art NLP models.
 
 ## Features
 
